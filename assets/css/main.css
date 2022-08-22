@@ -2056,6 +2056,15 @@ input, select, textarea {
 					border-top-color: #827a7c;
 				}
 
+/* Figure */
+	figure {
+		width: 20em;
+	}
+		
+		figure img {
+			width: 100%;
+		}
+
 /* Page Wrapper */
 
 	#page-wrapper > section {
